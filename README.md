@@ -2,8 +2,8 @@
 
 This is a simulation example using ns3 library for simulation a network with topology in lower section for Computer Networks class at Faculty of Engineering Rijeka
 
-##Simulated network topology
-
+## Simulated network topology
+```
 
                                        n7 ----- n8
 
@@ -26,3 +26,4 @@ This is a simulation example using ns3 library for simulation a network with top
  /
 
 n0
+```
